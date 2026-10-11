@@ -12,321 +12,353 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Widya =====
-[1]Widya       |08:03:46 | 11-10-2026| login OK @widyafanisia | score=860 rank=6767
-[1]Widya       |08:03:46 | 11-10-2026| serverTime=2026-10-11T08:03:46.000Z local=2026-10-11T08:03:46.697Z
+[1]Widya       |15:22:59 | 11-10-2026| login OK @widyafanisia | score=950 rank=6172
+[1]Widya       |15:22:59 | 11-10-2026| serverTime=2026-10-11T15:22:59.000Z local=2026-10-11T15:22:59.078Z
 --> [1]Widya menjalankan: Claim Daily
-[1]Widya       |08:03:48 | 11-10-2026| daily: sudah klaim (already=true) score=860
---> [1]Widya menjalankan: Auto All Tasks (3 pending)
-[1]Widya       |08:03:51 | 11-10-2026| [1/3] 43abe690 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/widyafanisia/status/2109192943703628274
-[1]Widya       |08:03:51 | 11-10-2026| delay 10s...
-[1]Widya       |08:04:05 | 11-10-2026| [2/3] 1499c73c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/widyafanisia/status/2109192977766335859
-[1]Widya       |08:04:05 | 11-10-2026| delay 10s...
-[1]Widya       |08:04:18 | 11-10-2026| [3/3] e62ee4d9 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/widyafanisia/status/2109193062001298217
-[1]Widya       |08:04:18 | 11-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Widya       |08:04:21 | 11-10-2026| [1/1] 43abe690 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/widyafanisia/status/2109193097284704404
+[1]Widya       |15:23:00 | 11-10-2026| daily: OK +10 poin score=960
+--> [1]Widya menjalankan: Auto All Tasks (5 pending)
+[1]Widya       |15:23:02 | 11-10-2026| [1/5] cdea075d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/widyafanisia/status/2109303187639288911
+[1]Widya       |15:23:02 | 11-10-2026| delay 10s...
+[1]Widya       |15:23:14 | 11-10-2026| [2/5] c0692622 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/widyafanisia/status/2109303442649587376
+[1]Widya       |15:23:14 | 11-10-2026| delay 10s...
+[1]Widya       |15:23:25 | 11-10-2026| [3/5] cbf91691 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/widyafanisia/status/2109303366748999892
+[1]Widya       |15:23:25 | 11-10-2026| delay 10s...
+[1]Widya       |15:23:37 | 11-10-2026| [4/5] 65e97767 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
+[1]Widya       |15:23:37 | 11-10-2026| delay 10s...
+[1]Widya       |15:23:48 | 11-10-2026| [5/5] abf84ab9 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/widyafanisia/status/2109303517813919189
+[1]Widya       |15:23:48 | 11-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Widya       |15:23:50 | 11-10-2026| [1/1] cdea075d (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/widyafanisia/status/2109303612078113398
 --> [1]Widya menjalankan: Watch Anime
-[1]Widya       |08:04:23 | 11-10-2026| watch: 2 video belum completed: oshi-first-journey,ep6
-[1]Widya       |08:04:23 | 11-10-2026| watch [1/2] farming oshi-first-journey...
-[1]Widya       |08:04:26 | 11-10-2026| watch oshi-first-journey: 0% (0.00/87.00s)
-[1]Widya       |08:04:32 | 11-10-2026| watch oshi-first-journey: 6% (5.66/87.00s)
-[1]Widya       |08:04:40 | 11-10-2026| watch oshi-first-journey: 13% (11.61/87.00s)
-[1]Widya       |08:04:47 | 11-10-2026| watch oshi-first-journey: 21% (18.53/87.00s)
-[1]Widya       |08:04:55 | 11-10-2026| watch oshi-first-journey: 28% (24.73/87.00s)
-[1]Widya       |08:05:03 | 11-10-2026| watch oshi-first-journey: 36% (32.06/87.00s)
-[1]Widya       |08:05:10 | 11-10-2026| watch oshi-first-journey: 45% (39.37/87.00s)
-[1]Widya       |08:05:17 | 11-10-2026| watch oshi-first-journey: 52% (45.78/87.00s)
-[1]Widya       |08:05:25 | 11-10-2026| watch oshi-first-journey: 59% (51.76/87.00s)
-[1]Widya       |08:05:35 | 11-10-2026| watch oshi-first-journey: 67% (59.06/87.00s)
-[1]Widya       |08:05:47 | 11-10-2026| watch oshi-first-journey: 78% (68.04/87.00s)
-[1]Widya       |08:05:55 | 11-10-2026| watch oshi-first-journey: 87% (76.00/87.00s)
-[1]Widya       |08:06:03 | 11-10-2026| watch oshi-first-journey: 95% (83.25/87.00s)
-[1]Widya       |08:06:03 | 11-10-2026| watch oshi-first-journey: COMPLETED (83.25/87.00s)
-[1]Widya       |08:06:08 | 11-10-2026| watch [2/2] farming ep6...
-[1]Widya       |08:06:10 | 11-10-2026| watch ep6: mulai dari 0 (record 345.9s diabaikan)
-[1]Widya       |08:06:18 | 11-10-2026| watch ep6: 85% (345.87/404.00s)
-[1]Widya       |08:06:28 | 11-10-2026| watch ep6: 85% (345.87/404.00s)
-[1]Widya       |08:06:35 | 11-10-2026| watch ep6: 85% (345.87/404.00s)
-[1]Widya       |08:06:43 | 11-10-2026| watch ep6: 85% (345.87/404.00s)
-[1]Widya       |08:06:51 | 11-10-2026| watch ep6: 85% (345.87/404.00s)
-[1]Widya       |08:06:58 | 11-10-2026| watch ep6: 85% (345.87/404.00s)
-[1]Widya       |08:07:06 | 11-10-2026| watch ep6: 85% (345.87/404.00s)
-[1]Widya       |08:07:14 | 11-10-2026| watch ep6: 85% (345.87/404.00s)
-[1]Widya       |08:07:21 | 11-10-2026| watch ep6: 85% (345.87/404.00s)
-[1]Widya       |08:07:28 | 11-10-2026| watch ep6: 85% (345.87/404.00s)
-[1]Widya       |08:07:37 | 11-10-2026| watch ep6: 85% (345.87/404.00s)
-[1]Widya       |08:07:44 | 11-10-2026| watch ep6: 85% (345.87/404.00s)
-[1]Widya       |08:07:51 | 11-10-2026| watch ep6: 85% (346.11/404.00s)
-[1]Widya       |08:07:58 | 11-10-2026| watch ep6: 85% (346.11/404.00s)
-[1]Widya       |08:08:09 | 11-10-2026| watch ep6: 85% (346.11/404.00s)
-[1]Widya       |08:08:17 | 11-10-2026| watch ep6: 85% (346.11/404.00s)
-[1]Widya       |08:08:26 | 11-10-2026| watch ep6: 85% (346.11/404.00s)
-[1]Widya       |08:08:36 | 11-10-2026| watch ep6: 85% (346.11/404.00s)
-[1]Widya       |08:08:42 | 11-10-2026| watch ep6: 85% (346.11/404.00s)
-[1]Widya       |08:08:50 | 11-10-2026| watch ep6: 85% (346.11/404.00s)
-[1]Widya       |08:08:58 | 11-10-2026| watch ep6: 85% (346.11/404.00s)
-[1]Widya       |08:09:14 | 11-10-2026| watch ep6: 85% (346.56/404.00s)
-[1]Widya       |08:09:20 | 11-10-2026| watch ep6: 85% (346.56/404.00s)
-[1]Widya       |08:09:27 | 11-10-2026| watch ep6: 85% (346.56/404.00s)
-[1]Widya       |08:09:33 | 11-10-2026| watch ep6: 85% (346.56/404.00s)
-[1]Widya       |08:09:40 | 11-10-2026| watch ep6: 85% (346.56/404.00s)
-[1]Widya       |08:09:47 | 11-10-2026| watch ep6: 85% (346.56/404.00s)
-[1]Widya       |08:09:53 | 11-10-2026| watch ep6: 85% (346.56/404.00s)
-[1]Widya       |08:09:59 | 11-10-2026| watch ep6: 85% (346.56/404.00s)
-[1]Widya       |08:10:05 | 11-10-2026| watch ep6: 85% (346.56/404.00s)
-[1]Widya       |08:10:12 | 11-10-2026| watch ep6: 85% (346.56/404.00s)
-[1]Widya       |08:10:19 | 11-10-2026| watch ep6: 85% (346.56/404.00s)
-[1]Widya       |08:10:27 | 11-10-2026| watch ep6: 85% (347.00/404.00s)
-[1]Widya       |08:10:34 | 11-10-2026| watch ep6: 85% (347.00/404.00s)
-[1]Widya       |08:10:41 | 11-10-2026| watch ep6: 85% (347.00/404.00s)
-[1]Widya       |08:10:47 | 11-10-2026| watch ep6: 85% (347.00/404.00s)
-[1]Widya       |08:10:53 | 11-10-2026| watch ep6: 85% (347.00/404.00s)
-[1]Widya       |08:11:01 | 11-10-2026| watch ep6: 85% (347.00/404.00s)
-[1]Widya       |08:11:10 | 11-10-2026| watch ep6: 85% (347.00/404.00s)
-[1]Widya       |08:11:16 | 11-10-2026| watch ep6: 85% (347.00/404.00s)
-[1]Widya       |08:11:24 | 11-10-2026| watch ep6: 86% (347.46/404.00s)
-[1]Widya       |08:11:30 | 11-10-2026| watch ep6: 86% (347.46/404.00s)
-[1]Widya       |08:11:39 | 11-10-2026| watch ep6: 86% (347.46/404.00s)
-[1]Widya       |08:11:47 | 11-10-2026| watch ep6: 86% (347.46/404.00s)
-[1]Widya       |08:11:55 | 11-10-2026| watch ep6: 86% (347.46/404.00s)
-[1]Widya       |08:12:02 | 11-10-2026| watch ep6: 86% (347.46/404.00s)
-[1]Widya       |08:12:12 | 11-10-2026| watch ep6: 86% (347.46/404.00s)
-[1]Widya       |08:12:18 | 11-10-2026| watch ep6: 86% (347.46/404.00s)
-[1]Widya       |08:12:25 | 11-10-2026| watch ep6: 86% (347.46/404.00s)
-[1]Widya       |08:12:33 | 11-10-2026| watch ep6: 86% (347.46/404.00s)
-[1]Widya       |08:12:41 | 11-10-2026| watch ep6: 86% (348.84/404.00s)
-[1]Widya       |08:12:47 | 11-10-2026| watch ep6: 87% (355.10/404.00s)
-[1]Widya       |08:12:55 | 11-10-2026| watch ep6: 89% (360.75/404.00s)
-[1]Widya       |08:13:01 | 11-10-2026| watch ep6: 90% (367.22/404.00s)
-[1]Widya       |08:13:01 | 11-10-2026| watch ep6: COMPLETED (367.22/404.00s)
+[1]Widya       |15:23:51 | 11-10-2026| watch: semua video sudah completed
 --> [1]Widya menjalankan: Read Article
-[1]Widya       |08:13:02 | 11-10-2026| news: 0/24 artikel selesai dibaca
-[1]Widya       |08:13:03 | 11-10-2026| mint eligibility: {"userId":"1780798979921641472","youtube":{"url":"https://www.youtube.com/@widyafanisia","status":"submitted","revision":"c096ca46-528f-4486-90cd-535103094825","submittedAt":1791678193,"reviewedAt":17
-[1]Widya       |08:13:09 | 11-10-2026| news [1/24] oshi-clash-100000-battles: OK completed=1
-[1]Widya       |08:13:18 | 11-10-2026| news [2/24] whitepaper-v2-2: OK completed=2
-[1]Widya       |08:13:27 | 11-10-2026| news [3/24] smart-pocket-referral-rewards: OK completed=3
-[1]Widya       |08:13:36 | 11-10-2026| news [4/24] spaceship-and-studio-friends: OK completed=4
-[1]Widya       |08:13:46 | 11-10-2026| news [5/24] swap-arena-stars-guide: OK completed=5
-[1]Widya       |08:13:55 | 11-10-2026| news [6/24] kagura-airdrop-guide: OK completed=6
-[1]Widya       |08:14:03 | 11-10-2026| news [7/24] oshi-clash-complete-guide: OK completed=7
-[1]Widya       |08:14:12 | 11-10-2026| news [8/24] oshi-clash-launch: OK completed=8
-[1]Widya       |08:14:22 | 11-10-2026| news [9/24] smart-pocket-monthly-2026-09: OK completed=9
-[1]Widya       |08:14:31 | 11-10-2026| news [10/24] oshi-labs-monthly-2026-09: OK completed=10
-[1]Widya       |08:14:43 | 11-10-2026| news [11/24] oshi-news-launch: OK completed=11
-[1]Widya       |08:14:54 | 11-10-2026| news [12/24] yuki-character-design: OK completed=12
-[1]Widya       |08:15:02 | 11-10-2026| news [13/24] smart-pocket-mobile-apps: OK completed=13
-[1]Widya       |08:15:11 | 11-10-2026| news [14/24] smart-pocket-read-a-card: OK completed=14
-[1]Widya       |08:15:20 | 11-10-2026| news [15/24] start-your-fan-creation: OK completed=15
-[1]Widya       |08:15:28 | 11-10-2026| news [16/24] complete-your-first-task: OK completed=16
-[1]Widya       |08:15:39 | 11-10-2026| news [17/24] understand-the-rankings: OK completed=17
-[1]Widya       |08:15:51 | 11-10-2026| news [18/24] unlock-and-save-icons: OK completed=18
-[1]Widya       |08:16:00 | 11-10-2026| news [19/24] start-here: OK completed=19
-[1]Widya       |08:16:09 | 11-10-2026| news [20/24] what-is-free-mint: OK completed=20
-[1]Widya       |08:16:19 | 11-10-2026| news [21/24] what-is-nft: OK completed=21
-[1]Widya       |08:16:30 | 11-10-2026| news [22/24] prepare-your-wallet: OK completed=22
-[1]Widya       |08:16:38 | 11-10-2026| news [23/24] find-your-anime: OK completed=23
-[1]Widya       |08:16:47 | 11-10-2026| news [24/24] smart-pocket-first-steps: OK completed=24
+[1]Widya       |15:23:52 | 11-10-2026| news: 24/24 artikel selesai dibaca
+[1]Widya       |15:23:53 | 11-10-2026| mint eligibility: {"userId":"1780798979921641472","youtube":{"url":"https://www.youtube.com/@widyafanisia","status":"submitted","revision":"c096ca46-528f-4486-90cd-535103094825","submittedAt":1791678193,"reviewedAt":17
+[1]Widya       |15:23:53 | 11-10-2026| news: semua artikel sudah dibaca
 --> [1]Widya menjalankan: Quiz Anime
-[1]Widya       |08:16:52 | 11-10-2026| quiz ep1: BENAR (0) +10 poin
-[1]Widya       |08:16:57 | 11-10-2026| quiz ep2: BENAR (1) +10 poin
-[1]Widya       |08:17:03 | 11-10-2026| quiz ep3: BENAR (2) +10 poin
-[1]Widya       |08:17:10 | 11-10-2026| quiz ep4: BENAR (3) +10 poin
-[1]Widya       |08:17:16 | 11-10-2026| quiz ep5: BENAR (0) +10 poin
-[1]Widya       |08:17:21 | 11-10-2026| quiz ep6: BENAR (1) +10 poin
+[1]Widya       |15:23:53 | 11-10-2026| quiz ep1: sudah dijawab
+[1]Widya       |15:23:53 | 11-10-2026| quiz ep2: sudah dijawab
+[1]Widya       |15:23:53 | 11-10-2026| quiz ep3: sudah dijawab
+[1]Widya       |15:23:53 | 11-10-2026| quiz ep4: sudah dijawab
+[1]Widya       |15:23:53 | 11-10-2026| quiz ep5: sudah dijawab
+[1]Widya       |15:23:53 | 11-10-2026| quiz ep6: sudah dijawab
 --> [1]Widya menjalankan: Music Missions (realtime, bisa lama!)
-[1]Widya       |08:17:35 | 11-10-2026| music memutar "この手は覚えてる" (94s)...
-[1]Widya       |08:17:46 | 11-10-2026| music "この手は覚えてる": 9% (9.0054/94s)
-[1]Widya       |08:17:57 | 11-10-2026| music "この手は覚えてる": 20% (19.3104/94s)
-[1]Widya       |08:18:09 | 11-10-2026| music "この手は覚えてる": 31% (29.489400000000003/94s)
-[1]Widya       |08:18:21 | 11-10-2026| music "この手は覚えてる": 42% (39.85830000000001/94s)
-[1]Widya       |08:18:33 | 11-10-2026| music "この手は覚えてる": 53% (50.351400000000005/94s)
-[1]Widya       |08:18:44 | 11-10-2026| music "この手は覚えてる": 65% (61.173/94s)
-[1]Widya       |08:18:55 | 11-10-2026| music "この手は覚えてる": 75% (71.2782/94s)
-[1]Widya       |08:19:07 | 11-10-2026| music "この手は覚えてる": 86% (81.5319/94s)
-[1]Widya       |08:19:08 | 11-10-2026| music "この手は覚えてる": selesai 81.5319s
-[1]Widya       |08:19:10 | 11-10-2026| music memutar "キャンバス" (125s)...
-[1]Widya       |08:19:22 | 11-10-2026| music "キャンバス": 7% (9.0063/125s)
-[1]Widya       |08:19:34 | 11-10-2026| music "キャンバス": 15% (19.5111/125s)
-[1]Widya       |08:19:48 | 11-10-2026| music "キャンバス": 24% (30.5811/125s)
-[1]Widya       |08:20:00 | 11-10-2026| music "キャンバス": 34% (43.3116/125s)
-[1]Widya       |08:20:11 | 11-10-2026| music "キャンバス": 42% (53.4465/125s)
-[1]Widya       |08:20:22 | 11-10-2026| music "キャンバス": 50% (63.7047/125s)
-[1]Widya       |08:20:34 | 11-10-2026| music "キャンバス": 59% (73.7658/125s)
-[1]Widya       |08:20:46 | 11-10-2026| music "キャンバス": 67% (84.7071/125s)
-[1]Widya       |08:21:01 | 11-10-2026| music "キャンバス": 76% (95.094/125s)
-[1]Widya       |08:21:13 | 11-10-2026| music "キャンバス": 87% (108.7794/125s)
-[1]Widya       |08:21:14 | 11-10-2026| music "キャンバス": selesai 108.7794s
-[1]Widya       |08:21:17 | 11-10-2026| music memutar "ゆっくり帰ろう" (153s)...
-[1]Widya       |08:21:28 | 11-10-2026| music "ゆっくり帰ろう": 5% (9.0009/153s)
-[1]Widya       |08:21:40 | 11-10-2026| music "ゆっくり帰ろう": 12% (19.0377/153s)
-[1]Widya       |08:21:51 | 11-10-2026| music "ゆっくり帰ろう": 19% (29.1411/153s)
-[1]Widya       |08:22:02 | 11-10-2026| music "ゆっくり帰ろう": 25% (39.4425/153s)
-[1]Widya       |08:22:14 | 11-10-2026| music "ゆっくり帰ろう": 32% (49.4757/153s)
-[1]Widya       |08:22:25 | 11-10-2026| music "ゆっくり帰ろう": 39% (60.2451/153s)
-[1]Widya       |08:22:36 | 11-10-2026| music "ゆっくり帰ろう": 45% (70.2162/153s)
-[1]Widya       |08:22:49 | 11-10-2026| music "ゆっくり帰ろう": 52% (80.30250000000001/153s)
-[1]Widya       |08:23:00 | 11-10-2026| music "ゆっくり帰ろう": 59% (91.64970000000001/153s)
-[1]Widya       |08:23:12 | 11-10-2026| music "ゆっくり帰ろう": 66% (101.61540000000001/153s)
-[1]Widya       |08:23:24 | 11-10-2026| music "ゆっくり帰ろう": 73% (111.86370000000001/153s)
-[1]Widya       |08:23:35 | 11-10-2026| music "ゆっくり帰ろう": 80% (122.78790000000001/153s)
-[1]Widya       |08:23:46 | 11-10-2026| music "ゆっくり帰ろう": 87% (133.3332/153s)
-[1]Widya       |08:23:47 | 11-10-2026| music "ゆっくり帰ろう": selesai 133.3332s
-[1]Widya       |08:23:50 | 11-10-2026| music memutar "うたかた" (185s)...
-[1]Widya       |08:24:02 | 11-10-2026| music "うたかた": 4% (9.0054/185s)
-[1]Widya       |08:24:13 | 11-10-2026| music "うたかた": 10% (19.1124/185s)
-[1]Widya       |08:24:24 | 11-10-2026| music "うたかた": 15% (29.1087/185s)
-[1]Widya       |08:24:36 | 11-10-2026| music "うたかた": 21% (39.195/185s)
-[1]Widya       |08:24:47 | 11-10-2026| music "うたかた": 27% (50.3532/185s)
-[1]Widya       |08:25:00 | 11-10-2026| music "うたかた": 32% (60.2757/185s)
-[1]Widya       |08:25:11 | 11-10-2026| music "うたかた": 38% (71.4699/185s)
-[1]Widya       |08:25:22 | 11-10-2026| music "うたかた": 43% (81.37259999999999/185s)
-[1]Widya       |08:25:33 | 11-10-2026| music "うたかた": 49% (91.2546/185s)
-[1]Widya       |08:25:45 | 11-10-2026| music "うたかた": 54% (101.3715/185s)
-[1]Widya       |08:25:57 | 11-10-2026| music "うたかた": 60% (112.2354/185s)
-[1]Widya       |08:26:09 | 11-10-2026| music "うたかた": 66% (122.8806/185s)
-[1]Widya       |08:26:20 | 11-10-2026| music "うたかた": 72% (133.55010000000001/185s)
-[1]Widya       |08:26:32 | 11-10-2026| music "うたかた": 77% (143.85150000000002/185s)
-[1]Widya       |08:26:43 | 11-10-2026| music "うたかた": 83% (154.3554/185s)
-[1]Widya       |08:26:44 | 11-10-2026| music "うたかた": selesai 154.3554s
-[1]Widya       |08:26:46 | 11-10-2026| music memutar "ぬくもり" (188s)...
-[1]Widya       |08:26:58 | 11-10-2026| music "ぬくもり": 4% (9.0054/188s)
-[1]Widya       |08:27:10 | 11-10-2026| music "ぬくもり": 10% (19.444499999999998/188s)
-[1]Widya       |08:27:23 | 11-10-2026| music "ぬくもり": 16% (30.329099999999997/188s)
-[1]Widya       |08:27:34 | 11-10-2026| music "ぬくもり": 22% (41.771699999999996/188s)
-[1]Widya       |08:27:45 | 11-10-2026| music "ぬくもり": 27% (51.764399999999995/188s)
-[1]Widya       |08:27:57 | 11-10-2026| music "ぬくもり": 33% (62.090999999999994/188s)
-[1]Widya       |08:28:08 | 11-10-2026| music "ぬくもり": 38% (72.243/188s)
-[1]Widya       |08:28:21 | 11-10-2026| music "ぬくもり": 43% (82.179/188s)
-[1]Widya       |08:28:33 | 11-10-2026| music "ぬくもり": 50% (94.0527/188s)
-[1]Widya       |08:28:44 | 11-10-2026| music "ぬくもり": 55% (104.6232/188s)
-[1]Widya       |08:28:57 | 11-10-2026| music "ぬくもり": 60% (114.6447/188s)
-[1]Widya       |08:29:09 | 11-10-2026| music "ぬくもり": 67% (126.3339/188s)
-[1]Widya       |08:29:20 | 11-10-2026| music "ぬくもり": 72% (137.0115/188s)
-[1]Widya       |08:29:31 | 11-10-2026| music "ぬくもり": 78% (146.96820000000002/188s)
-[1]Widya       |08:29:43 | 11-10-2026| music "ぬくもり": 83% (157.46490000000003/188s)
-[1]Widya       |08:29:44 | 11-10-2026| music "ぬくもり": selesai 157.46490000000003s
-[1]Widya       |08:29:50 | 11-10-2026| music memutar "桃色の頃" (213s)...
-[1]Widya       |08:30:01 | 11-10-2026| music "桃色の頃": 4% (9.0054/213s)
-[1]Widya       |08:30:13 | 11-10-2026| music "桃色の頃": 8% (19.039499999999997/213s)
-[1]Widya       |08:30:26 | 11-10-2026| music "桃色の頃": 13% (29.819699999999997/213s)
-[1]Widya       |08:30:38 | 11-10-2026| music "桃色の頃": 19% (42.1254/213s)
-[1]Widya       |08:30:49 | 11-10-2026| music "桃色の頃": 24% (52.8156/213s)
-[1]Widya       |08:31:00 | 11-10-2026| music "桃色の頃": 29% (62.7561/213s)
-[1]Widya       |08:31:11 | 11-10-2026| music "桃色の頃": 34% (72.6624/213s)
-[1]Widya       |08:31:24 | 11-10-2026| music "桃色の頃": 38% (82.7082/213s)
-[1]Widya       |08:31:35 | 11-10-2026| music "桃色の頃": 43% (93.6243/213s)
-[1]Widya       |08:31:47 | 11-10-2026| music "桃色の頃": 48% (103.74390000000001/213s)
-[1]Widya       |08:31:59 | 11-10-2026| music "桃色の頃": 53% (114.70230000000001/213s)
-[1]Widya       |08:32:10 | 11-10-2026| music "桃色の頃": 58% (125.1684/213s)
-[1]Widya       |08:32:21 | 11-10-2026| music "桃色の頃": 63% (135.6138/213s)
-[1]Widya       |08:32:34 | 11-10-2026| music "桃色の頃": 68% (145.7253/213s)
-[1]Widya       |08:32:45 | 11-10-2026| music "桃色の頃": 73% (156.915/213s)
-[1]Widya       |08:32:56 | 11-10-2026| music "桃色の頃": 78% (166.9761/213s)
-[1]Widya       |08:33:07 | 11-10-2026| music "桃色の頃": 83% (176.8995/213s)
-[1]Widya       |08:33:08 | 11-10-2026| music "桃色の頃": selesai 176.8995s
-[1]Widya       |08:33:11 | 11-10-2026| music memutar "記憶の名前" (224s)...
-[1]Widya       |08:33:22 | 11-10-2026| music "記憶の名前": 4% (9.0045/224s)
-[1]Widya       |08:33:33 | 11-10-2026| music "記憶の名前": 8% (19.17/224s)
-[1]Widya       |08:33:45 | 11-10-2026| music "記憶の名前": 13% (29.1915/224s)
-[1]Widya       |08:33:57 | 11-10-2026| music "記憶の名前": 17% (40.1418/224s)
-[1]Widya       |08:34:09 | 11-10-2026| music "記憶の名前": 22% (50.61240000000001/224s)
-[1]Widya       |08:34:21 | 11-10-2026| music "記憶の名前": 27% (61.59960000000001/224s)
-[1]Widya       |08:34:32 | 11-10-2026| music "記憶の名前": 32% (72.30870000000002/224s)
-[1]Widya       |08:34:43 | 11-10-2026| music "記憶の名前": 36% (82.39590000000001/224s)
-[1]Widya       |08:34:55 | 11-10-2026| music "記憶の名前": 41% (92.35350000000001/224s)
-[1]Widya       |08:35:06 | 11-10-2026| music "記憶の名前": 45% (102.90870000000001/224s)
-[1]Widya       |08:35:17 | 11-10-2026| music "記憶の名前": 50% (112.97070000000001/224s)
-[1]Widya       |08:35:30 | 11-10-2026| music "記憶の名前": 54% (122.89860000000002/224s)
-[1]Widya       |08:35:42 | 11-10-2026| music "記憶の名前": 59% (133.83180000000002/224s)
-[1]Widya       |08:35:53 | 11-10-2026| music "記憶の名前": 64% (144.7101/224s)
-[1]Widya       |08:36:06 | 11-10-2026| music "記憶の名前": 69% (154.6236/224s)
-[1]Widya       |08:36:17 | 11-10-2026| music "記憶の名前": 74% (166.31730000000002/224s)
-[1]Widya       |08:36:28 | 11-10-2026| music "記憶の名前": 78% (176.83020000000002/224s)
-[1]Widya       |08:36:41 | 11-10-2026| music "記憶の名前": 83% (186.7221/224s)
-[1]Widya       |08:36:41 | 11-10-2026| music "記憶の名前": selesai 186.7221s
-[1]Widya       |08:36:45 | 11-10-2026| music memutar "Smart Pocket" (232s)...
-[1]Widya       |08:36:57 | 11-10-2026| music "Smart Pocket": 3% (9.0063/232s)
-[1]Widya       |08:37:08 | 11-10-2026| music "Smart Pocket": 8% (19.562399999999997/232s)
-[1]Widya       |08:37:19 | 11-10-2026| music "Smart Pocket": 12% (29.927699999999994/232s)
-[1]Widya       |08:37:32 | 11-10-2026| music "Smart Pocket": 17% (39.85829999999999/232s)
-[1]Widya       |08:37:43 | 11-10-2026| music "Smart Pocket": 21% (50.871599999999994/232s)
-[1]Widya       |08:37:55 | 11-10-2026| music "Smart Pocket": 26% (61.32959999999999/232s)
-[1]Widya       |08:38:06 | 11-10-2026| music "Smart Pocket": 30% (71.78129999999999/232s)
-[1]Widya       |08:38:17 | 11-10-2026| music "Smart Pocket": 35% (81.78299999999999/232s)
-[1]Widya       |08:38:28 | 11-10-2026| music "Smart Pocket": 39% (91.87379999999999/232s)
-[1]Widya       |08:38:45 | 11-10-2026| music "Smart Pocket": 43% (101.83859999999999/232s)
-[1]Widya       |08:38:57 | 11-10-2026| music "Smart Pocket": 50% (117.00899999999999/232s)
-[1]Widya       |08:39:11 | 11-10-2026| music "Smart Pocket": 54% (127.38419999999999/232s)
-[1]Widya       |08:39:23 | 11-10-2026| music "Smart Pocket": 60% (140.0589/232s)
-[1]Widya       |08:39:35 | 11-10-2026| music "Smart Pocket": 64% (150.7698/232s)
-[1]Widya       |08:39:47 | 11-10-2026| music "Smart Pocket": 69% (161.56980000000001/232s)
-[1]Widya       |08:39:59 | 11-10-2026| music "Smart Pocket": 74% (172.69830000000002/232s)
-[1]Widya       |08:40:11 | 11-10-2026| music "Smart Pocket": 79% (183.6243/232s)
-[1]Widya       |08:40:23 | 11-10-2026| music "Smart Pocket": 83% (194.5323/232s)
-[1]Widya       |08:40:23 | 11-10-2026| music "Smart Pocket": selesai 194.5323s
-[1]Widya       |08:40:27 | 11-10-2026| music memutar "神様みたいに" (254s)...
-[1]Widya       |08:40:39 | 11-10-2026| music "神様みたいに": 3% (9.0063/254s)
-[1]Widya       |08:40:52 | 11-10-2026| music "神様みたいに": 7% (19.3014/254s)
-[1]Widya       |08:41:03 | 11-10-2026| music "神様みたいに": 12% (31.550400000000003/254s)
-[1]Widya       |08:41:15 | 11-10-2026| music "神様みたいに": 16% (41.487300000000005/254s)
-[1]Widya       |08:41:31 | 11-10-2026| music "神様みたいに": 20% (52.473600000000005/254s)
-[1]Widya       |08:41:44 | 11-10-2026| music "神様みたいに": 26% (66.36240000000001/254s)
-[1]Widya       |08:41:55 | 11-10-2026| music "神様みたいに": 30% (77.9697/254s)
-[1]Widya       |08:42:06 | 11-10-2026| music "神様みたいに": 34% (87.8904/254s)
-[1]Widya       |08:42:20 | 11-10-2026| music "神様みたいに": 38% (97.84440000000001/254s)
-[1]Widya       |08:42:35 | 11-10-2026| music "神様みたいに": 43% (110.88900000000001/254s)
-[1]Widya       |08:42:47 | 11-10-2026| music "神様みたいに": 48% (124.38810000000001/254s)
-[1]Widya       |08:43:01 | 11-10-2026| music "神様みたいに": 53% (135.2007/254s)
-[1]Widya       |08:43:12 | 11-10-2026| music "神様みたいに": 58% (147.3651/254s)
-[1]Widya       |08:43:23 | 11-10-2026| music "神様みたいに": 61% (157.36950000000002/254s)
-[1]Widya       |08:43:35 | 11-10-2026| music "神様みたいに": 65% (167.43150000000003/254s)
-[1]Widya       |08:43:50 | 11-10-2026| music "神様みたいに": 70% (178.17390000000003/254s)
-[1]Widya       |08:44:02 | 11-10-2026| music "神様みたいに": 75% (191.60010000000003/254s)
-[1]Widya       |08:44:15 | 11-10-2026| music "神様みたいに": 79% (202.43880000000001/254s)
-[1]Widya       |08:44:28 | 11-10-2026| music "神様みたいに": 84% (213.97230000000002/254s)
-[1]Widya       |08:44:29 | 11-10-2026| music "神様みたいに": selesai 213.97230000000002s
-[1]Widya       |08:44:35 | 11-10-2026| music memutar "せーので、飛ぼう！" (269s)...
-[1]Widya       |08:44:46 | 11-10-2026| music "せーので、飛ぼう！": 3% (9.0054/269s)
-[1]Widya       |08:44:57 | 11-10-2026| music "せーので、飛ぼう！": 7% (19.035899999999998/269s)
-[1]Widya       |08:45:09 | 11-10-2026| music "せーので、飛ぼう！": 10% (29.142899999999997/269s)
-[1]Widya       |08:45:20 | 11-10-2026| music "せーので、飛ぼう！": 14% (39.6189/269s)
-[1]Widya       |08:45:34 | 11-10-2026| music "せーので、飛ぼう！": 18% (49.786199999999994/269s)
-[1]Widya       |08:45:45 | 11-10-2026| music "せーので、飛ぼう！": 22% (61.612199999999994/269s)
-[1]Widya       |08:45:57 | 11-10-2026| music "せーので、飛ぼう！": 26% (71.9712/269s)
-[1]Widya       |08:46:08 | 11-10-2026| music "せーので、飛ぼう！": 30% (83.0052/269s)
-[1]Widya       |08:46:22 | 11-10-2026| music "せーので、飛ぼう！": 34% (93.0321/269s)
-[1]Widya       |08:46:34 | 11-10-2026| music "せーので、飛ぼう！": 39% (105.6546/269s)
-[1]Widya       |08:46:47 | 11-10-2026| music "せーので、飛ぼう！": 43% (116.19720000000001/269s)
-[1]Widya       |08:46:58 | 11-10-2026| music "せーので、飛ぼう！": 47% (127.3131/269s)
-[1]Widya       |08:47:12 | 11-10-2026| music "せーので、飛ぼう！": 51% (138.1077/269s)
-[1]Widya       |08:47:23 | 11-10-2026| music "せーので、飛ぼう！": 55% (149.9229/269s)
-[1]Widya       |08:47:36 | 11-10-2026| music "せーので、飛ぼう！": 59% (160.0002/269s)
-[1]Widya       |08:47:49 | 11-10-2026| music "せーので、飛ぼう！": 63% (171.963/269s)
-[1]Widya       |08:47:59 | 11-10-2026| music 856323b5-4b2f-42ee-80dd-3a3505fb9fdc: heartbeat GAGAL http=503, stop trek
-[1]Widya       |08:47:59 | 11-10-2026| music "せーので、飛ぼう！": selesai 183.5154s
-[1]Widya       |08:47:59 | 11-10-2026| music ERROR: music-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-[1]Widya       |08:47:59 | 11-10-2026| missions ERROR: missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Widya       |15:23:56 | 11-10-2026| music memutar "せーので、飛ぼう！" (269s)...
+[1]Widya       |15:24:07 | 11-10-2026| music "せーので、飛ぼう！": 3% (9.0027/269s)
+[1]Widya       |15:24:18 | 11-10-2026| music "せーので、飛ぼう！": 7% (18.882/269s)
+[1]Widya       |15:24:29 | 11-10-2026| music "せーので、飛ぼう！": 10% (28.8486/269s)
+[1]Widya       |15:24:40 | 11-10-2026| music "せーので、飛ぼう！": 14% (38.5821/269s)
+[1]Widya       |15:24:51 | 11-10-2026| music "せーので、飛ぼう！": 18% (48.5055/269s)
+[1]Widya       |15:25:01 | 11-10-2026| music "せーので、飛ぼう！": 21% (58.268699999999995/269s)
+[1]Widya       |15:25:14 | 11-10-2026| music "せーので、飛ぼう！": 25% (68.0202/269s)
+[1]Widya       |15:25:26 | 11-10-2026| music "せーので、飛ぼう！": 29% (78.8661/269s)
+[1]Widya       |15:25:37 | 11-10-2026| music "せーので、飛ぼう！": 33% (90.0126/269s)
+[1]Widya       |15:25:48 | 11-10-2026| music "せーので、飛ぼう！": 37% (99.9153/269s)
+[1]Widya       |15:25:59 | 11-10-2026| music "せーので、飛ぼう！": 40% (109.9818/269s)
+[1]Widya       |15:26:10 | 11-10-2026| music "せーので、飛ぼう！": 44% (120.15360000000001/269s)
+[1]Widya       |15:26:21 | 11-10-2026| music "せーので、飛ぼう！": 48% (129.9105/269s)
+[1]Widya       |15:26:32 | 11-10-2026| music "せーので、飛ぼう！": 51% (139.77270000000001/269s)
+[1]Widya       |15:26:43 | 11-10-2026| music "せーので、飛ぼう！": 55% (149.54760000000002/269s)
+[1]Widya       |15:26:55 | 11-10-2026| music "せーので、飛ぼう！": 59% (159.8103/269s)
+[1]Widya       |15:27:06 | 11-10-2026| music "せーので、飛ぼう！": 63% (169.8615/269s)
+[1]Widya       |15:27:17 | 11-10-2026| music "せーので、飛ぼう！": 66% (179.7534/269s)
+[1]Widya       |15:27:28 | 11-10-2026| music "せーので、飛ぼう！": 70% (189.6921/269s)
+[1]Widya       |15:27:38 | 11-10-2026| music "せーので、飛ぼう！": 74% (199.4823/269s)
+[1]Widya       |15:27:49 | 11-10-2026| music "せーので、飛ぼう！": 77% (209.2167/269s)
+[1]Widya       |15:28:00 | 11-10-2026| music "せーので、飛ぼう！": 81% (219.0519/269s)
+[1]Widya       |15:28:01 | 11-10-2026| music "せーので、飛ぼう！": selesai 219.0519s
+[1]Widya       |15:28:02 | 11-10-2026| music memutar "ON CHAIN NEXUS" (276s)...
+[1]Widya       |15:28:13 | 11-10-2026| music "ON CHAIN NEXUS": 3% (9.0054/276s)
+[1]Widya       |15:28:24 | 11-10-2026| music "ON CHAIN NEXUS": 6% (18.8838/276s)
+[1]Widya       |15:28:35 | 11-10-2026| music "ON CHAIN NEXUS": 10% (28.6479/276s)
+[1]Widya       |15:28:46 | 11-10-2026| music "ON CHAIN NEXUS": 13% (38.5731/276s)
+[1]Widya       |15:28:57 | 11-10-2026| music "ON CHAIN NEXUS": 17% (48.3399/276s)
+[1]Widya       |15:29:08 | 11-10-2026| music "ON CHAIN NEXUS": 21% (58.1382/276s)
+[1]Widya       |15:29:19 | 11-10-2026| music "ON CHAIN NEXUS": 24% (68.36489999999999/276s)
+[1]Widya       |15:29:31 | 11-10-2026| music "ON CHAIN NEXUS": 28% (78.28829999999999/276s)
+[1]Widya       |15:29:42 | 11-10-2026| music "ON CHAIN NEXUS": 32% (88.5735/276s)
+[1]Widya       |15:29:53 | 11-10-2026| music "ON CHAIN NEXUS": 35% (98.487/276s)
+[1]Widya       |15:30:04 | 11-10-2026| music "ON CHAIN NEXUS": 39% (108.85589999999999/276s)
+[1]Widya       |15:30:15 | 11-10-2026| music "ON CHAIN NEXUS": 42% (118.59479999999999/276s)
+[1]Widya       |15:30:26 | 11-10-2026| music "ON CHAIN NEXUS": 46% (128.3895/276s)
+[1]Widya       |15:30:38 | 11-10-2026| music "ON CHAIN NEXUS": 50% (138.6342/276s)
+[1]Widya       |15:30:49 | 11-10-2026| music "ON CHAIN NEXUS": 53% (148.66649999999998/276s)
+[1]Widya       |15:31:00 | 11-10-2026| music "ON CHAIN NEXUS": 57% (159.24239999999998/276s)
+[1]Widya       |15:31:12 | 11-10-2026| music "ON CHAIN NEXUS": 61% (169.21259999999998/276s)
+[1]Widya       |15:31:23 | 11-10-2026| music "ON CHAIN NEXUS": 65% (179.82629999999997/276s)
+[1]Widya       |15:31:34 | 11-10-2026| music "ON CHAIN NEXUS": 68% (189.64619999999996/276s)
+[1]Widya       |15:31:45 | 11-10-2026| music "ON CHAIN NEXUS": 72% (199.46069999999997/276s)
+[1]Widya       |15:31:56 | 11-10-2026| music "ON CHAIN NEXUS": 75% (209.21129999999997/276s)
+[1]Widya       |15:32:07 | 11-10-2026| music "ON CHAIN NEXUS": 79% (219.06719999999996/276s)
+[1]Widya       |15:32:18 | 11-10-2026| music "ON CHAIN NEXUS": 83% (229.17149999999995/276s)
+[1]Widya       |15:32:18 | 11-10-2026| music "ON CHAIN NEXUS": selesai 229.17149999999995s
+[1]Widya       |15:32:19 | 11-10-2026| music: kedua misi sudah tercapai, stop
+[1]Widya       |15:32:20 | 11-10-2026| mission music-listens-10: CLAIM OK +10 poin
+[1]Widya       |15:32:24 | 11-10-2026| mission music-minutes-30: CLAIM OK +10 poin
+[1]Widya       |15:32:28 | 11-10-2026| mission anime-completed-3: CLAIM OK +10 poin
 --> [1]Widya menjalankan: Claim Missions
-[1]Widya       |08:47:59 | 11-10-2026| missions ERROR: missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Widya       |15:32:32 | 11-10-2026| mission music-listens-10: sudah diklaim
+[1]Widya       |15:32:32 | 11-10-2026| mission music-minutes-30: sudah diklaim
+[1]Widya       |15:32:32 | 11-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Widya menjalankan: Check Eligibility
 
 --- eligibility [1]Widya ---
-  @widyafanisia | score=860 rank=6767
-  tasks    [###################-] 73/76
-  missions: ERROR missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  quiz: ERROR quizzes http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  watch: ERROR watch-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  music: ERROR music-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  artikel: ERROR news-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  mint: ERROR mint-eligibility http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  @widyafanisia | score=950 rank=6172
+  tasks    [###################-] 75/80
+  mission  music-listens-10:      claimed
+  mission  music-minutes-30:      claimed
+  mission  anime-completed-3:     claimed
+  quiz     [####################] 6/6
+  watch    [####################] 18/17
+  music    [####################] 11/11
+  artikel  [####################] 24/24
+  mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Widya menjalankan: Read Manga
-[1]Widya       |08:48:00 | 11-10-2026| manga ERROR: manga-history http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Widya       |15:32:36 | 11-10-2026| manga: 13/13 chapter belum completed
+[1]Widya       |15:32:36 | 11-10-2026| manga [1/13] membaca ch.1 (19 hal)...
+[1]Widya       |15:32:41 | 11-10-2026| manga ch1 (1): page 1/19 (5%) 0s
+[1]Widya       |15:32:47 | 11-10-2026| manga ch1 (1): page 2/19 (10%) 5s
+[1]Widya       |15:32:51 | 11-10-2026| manga ch1 (1): page 3/19 (15%) 10s
+[1]Widya       |15:32:55 | 11-10-2026| manga ch1 (1): page 4/19 (21%) 14s
+[1]Widya       |15:33:00 | 11-10-2026| manga ch1 (1): page 5/19 (26%) 18s
+[1]Widya       |15:33:05 | 11-10-2026| manga ch1 (1): page 6/19 (31%) 23s
+[1]Widya       |15:33:10 | 11-10-2026| manga ch1 (1): page 7/19 (36%) 28s
+[1]Widya       |15:33:14 | 11-10-2026| manga ch1 (1): page 8/19 (42%) 33s
+[1]Widya       |15:33:18 | 11-10-2026| manga ch1 (1): page 9/19 (47%) 37s
+[1]Widya       |15:33:23 | 11-10-2026| manga ch1 (1): page 10/19 (52%) 41s
+[1]Widya       |15:33:27 | 11-10-2026| manga ch1 (1): page 11/19 (57%) 46s
+[1]Widya       |15:33:32 | 11-10-2026| manga ch1 (1): page 12/19 (63%) 50s
+[1]Widya       |15:33:36 | 11-10-2026| manga ch1 (1): page 13/19 (68%) 55s
+[1]Widya       |15:33:41 | 11-10-2026| manga ch1 (1): page 14/19 (73%) 59s
+[1]Widya       |15:33:45 | 11-10-2026| manga ch1 (1): page 15/19 (78%) 64s
+[1]Widya       |15:33:49 | 11-10-2026| manga ch1 (1): page 16/19 (84%) 68s
+[1]Widya       |15:33:54 | 11-10-2026| manga ch1 (1): page 17/19 (89%) 72s
+[1]Widya       |15:33:58 | 11-10-2026| manga ch1 (1): page 18/19 (94%) 77s
+[1]Widya       |15:34:03 | 11-10-2026| manga ch1 (1): page 19/19 (99%) 82s
+[1]Widya       |15:34:08 | 11-10-2026| manga ch1 (1): COMPLETED
+[1]Widya       |15:34:11 | 11-10-2026| manga [2/13] membaca ch.2 (18 hal)...
+[1]Widya       |15:34:19 | 11-10-2026| manga ch2 (450001): page 1/18 (5%) 0s
+[1]Widya       |15:34:25 | 11-10-2026| manga ch2 (450001): page 2/18 (11%) 6s
+[1]Widya       |15:34:29 | 11-10-2026| manga ch2 (450001): page 3/18 (16%) 12s
+[1]Widya       |15:34:34 | 11-10-2026| manga ch2 (450001): page 4/18 (22%) 17s
+[1]Widya       |15:34:39 | 11-10-2026| manga ch2 (450001): page 5/18 (27%) 21s
+[1]Widya       |15:34:43 | 11-10-2026| manga ch2 (450001): page 6/18 (33%) 26s
+[1]Widya       |15:34:47 | 11-10-2026| manga ch2 (450001): page 7/18 (38%) 30s
+[1]Widya       |15:34:52 | 11-10-2026| manga ch2 (450001): page 8/18 (44%) 35s
+[1]Widya       |15:34:56 | 11-10-2026| manga ch2 (450001): page 9/18 (50%) 39s
+[1]Widya       |15:35:01 | 11-10-2026| manga ch2 (450001): page 10/18 (55%) 43s
+[1]Widya       |15:35:06 | 11-10-2026| manga ch2 (450001): page 11/18 (61%) 48s
+[1]Widya       |15:35:11 | 11-10-2026| manga ch2 (450001): page 12/18 (66%) 53s
+[1]Widya       |15:35:16 | 11-10-2026| manga ch2 (450001): page 13/18 (72%) 58s
+[1]Widya       |15:35:20 | 11-10-2026| manga ch2 (450001): page 14/18 (77%) 63s
+[1]Widya       |15:35:25 | 11-10-2026| manga ch2 (450001): page 15/18 (83%) 67s
+[1]Widya       |15:35:30 | 11-10-2026| manga ch2 (450001): page 16/18 (88%) 72s
+[1]Widya       |15:35:34 | 11-10-2026| manga ch2 (450001): page 17/18 (94%) 77s
+[1]Widya       |15:35:39 | 11-10-2026| manga ch2 (450001): page 18/18 (99%) 81s
+[1]Widya       |15:35:43 | 11-10-2026| manga ch2 (450001): COMPLETED
+[1]Widya       |15:35:46 | 11-10-2026| manga [3/13] membaca ch.3 (17 hal)...
+[1]Widya       |15:35:52 | 11-10-2026| manga ch3 (2160001): page 1/17 (5%) 0s
+[1]Widya       |15:35:56 | 11-10-2026| manga ch3 (2160001): page 2/17 (11%) 5s
+[1]Widya       |15:36:01 | 11-10-2026| manga ch3 (2160001): page 3/17 (17%) 10s
+[1]Widya       |15:36:05 | 11-10-2026| manga ch3 (2160001): page 4/17 (23%) 14s
+[1]Widya       |15:36:10 | 11-10-2026| manga ch3 (2160001): page 5/17 (29%) 19s
+[1]Widya       |15:36:14 | 11-10-2026| manga ch3 (2160001): page 6/17 (35%) 23s
+[1]Widya       |15:36:19 | 11-10-2026| manga ch3 (2160001): page 7/17 (41%) 27s
+[1]Widya       |15:36:24 | 11-10-2026| manga ch3 (2160001): page 8/17 (47%) 32s
+[1]Widya       |15:36:29 | 11-10-2026| manga ch3 (2160001): page 9/17 (52%) 37s
+[1]Widya       |15:36:33 | 11-10-2026| manga ch3 (2160001): page 10/17 (58%) 42s
+[1]Widya       |15:36:38 | 11-10-2026| manga ch3 (2160001): page 11/17 (64%) 47s
+[1]Widya       |15:36:43 | 11-10-2026| manga ch3 (2160001): page 12/17 (70%) 51s
+[1]Widya       |15:36:47 | 11-10-2026| manga ch3 (2160001): page 13/17 (76%) 56s
+[1]Widya       |15:36:51 | 11-10-2026| manga ch3 (2160001): page 14/17 (82%) 60s
+[1]Widya       |15:36:56 | 11-10-2026| manga ch3 (2160001): page 15/17 (88%) 64s
+[1]Widya       |15:37:00 | 11-10-2026| manga ch3 (2160001): page 16/17 (94%) 69s
+[1]Widya       |15:37:04 | 11-10-2026| manga ch3 (2160001): page 17/17 (99%) 73s
+[1]Widya       |15:37:09 | 11-10-2026| manga ch3 (2160001): COMPLETED
+[1]Widya       |15:37:12 | 11-10-2026| manga [4/13] membaca ch.4 (17 hal)...
+[1]Widya       |15:37:17 | 11-10-2026| manga ch4 (2400001): page 1/17 (5%) 0s
+[1]Widya       |15:37:22 | 11-10-2026| manga ch4 (2400001): page 2/17 (11%) 4s
+[1]Widya       |15:37:26 | 11-10-2026| manga ch4 (2400001): page 3/17 (17%) 9s
+[1]Widya       |15:37:31 | 11-10-2026| manga ch4 (2400001): page 4/17 (23%) 13s
+[1]Widya       |15:37:35 | 11-10-2026| manga ch4 (2400001): page 5/17 (29%) 18s
+[1]Widya       |15:37:39 | 11-10-2026| manga ch4 (2400001): page 6/17 (35%) 22s
+[1]Widya       |15:37:44 | 11-10-2026| manga ch4 (2400001): page 7/17 (41%) 26s
+[1]Widya       |15:37:48 | 11-10-2026| manga ch4 (2400001): page 8/17 (47%) 31s
+[1]Widya       |15:37:53 | 11-10-2026| manga ch4 (2400001): page 9/17 (52%) 35s
+[1]Widya       |15:37:57 | 11-10-2026| manga ch4 (2400001): page 10/17 (58%) 40s
+[1]Widya       |15:38:02 | 11-10-2026| manga ch4 (2400001): page 11/17 (64%) 44s
+[1]Widya       |15:38:06 | 11-10-2026| manga ch4 (2400001): page 12/17 (70%) 49s
+[1]Widya       |15:38:11 | 11-10-2026| manga ch4 (2400001): page 13/17 (76%) 53s
+[1]Widya       |15:38:15 | 11-10-2026| manga ch4 (2400001): page 14/17 (82%) 58s
+[1]Widya       |15:38:19 | 11-10-2026| manga ch4 (2400001): page 15/17 (88%) 62s
+[1]Widya       |15:38:24 | 11-10-2026| manga ch4 (2400001): page 16/17 (94%) 66s
+[1]Widya       |15:38:28 | 11-10-2026| manga ch4 (2400001): page 17/17 (99%) 71s
+[1]Widya       |15:38:33 | 11-10-2026| manga ch4 (2400001): COMPLETED
+[1]Widya       |15:38:36 | 11-10-2026| manga [5/13] membaca ch.5 (18 hal)...
+[1]Widya       |15:38:41 | 11-10-2026| manga ch5 (2490001): page 1/18 (5%) 0s
+[1]Widya       |15:38:45 | 11-10-2026| manga ch5 (2490001): page 2/18 (11%) 4s
+[1]Widya       |15:38:50 | 11-10-2026| manga ch5 (2490001): page 3/18 (16%) 9s
+[1]Widya       |15:38:54 | 11-10-2026| manga ch5 (2490001): page 4/18 (22%) 14s
+[1]Widya       |15:38:59 | 11-10-2026| manga ch5 (2490001): page 5/18 (27%) 18s
+[1]Widya       |15:39:03 | 11-10-2026| manga ch5 (2490001): page 6/18 (33%) 22s
+[1]Widya       |15:39:08 | 11-10-2026| manga ch5 (2490001): page 7/18 (38%) 26s
+[1]Widya       |15:39:13 | 11-10-2026| manga ch5 (2490001): page 8/18 (44%) 31s
+[1]Widya       |15:39:17 | 11-10-2026| manga ch5 (2490001): page 9/18 (50%) 36s
+[1]Widya       |15:39:23 | 11-10-2026| manga ch5 (2490001): page 10/18 (55%) 41s
+[1]Widya       |15:39:27 | 11-10-2026| manga ch5 (2490001): page 11/18 (61%) 46s
+[1]Widya       |15:39:32 | 11-10-2026| manga ch5 (2490001): page 12/18 (66%) 51s
+[1]Widya       |15:39:36 | 11-10-2026| manga ch5 (2490001): page 13/18 (72%) 55s
+[1]Widya       |15:39:41 | 11-10-2026| manga ch5 (2490001): page 14/18 (77%) 59s
+[1]Widya       |15:39:45 | 11-10-2026| manga ch5 (2490001): page 15/18 (83%) 64s
+[1]Widya       |15:39:50 | 11-10-2026| manga ch5 (2490001): page 16/18 (88%) 69s
+[1]Widya       |15:39:54 | 11-10-2026| manga ch5 (2490001): page 17/18 (94%) 73s
+[1]Widya       |15:39:58 | 11-10-2026| manga ch5 (2490001): page 18/18 (99%) 77s
+[1]Widya       |15:40:03 | 11-10-2026| manga ch5 (2490001): COMPLETED
+[1]Widya       |15:40:06 | 11-10-2026| manga [6/13] membaca ch.6 (17 hal)...
+[1]Widya       |15:40:12 | 11-10-2026| manga ch6 (2610001): page 1/17 (5%) 0s
+[1]Widya       |15:40:17 | 11-10-2026| manga ch6 (2610001): page 2/17 (11%) 5s
+[1]Widya       |15:40:21 | 11-10-2026| manga ch6 (2610001): page 3/17 (17%) 10s
+[1]Widya       |15:40:26 | 11-10-2026| manga ch6 (2610001): page 4/17 (23%) 14s
+[1]Widya       |15:40:30 | 11-10-2026| manga ch6 (2610001): page 5/17 (29%) 19s
+[1]Widya       |15:40:34 | 11-10-2026| manga ch6 (2610001): page 6/17 (35%) 23s
+[1]Widya       |15:40:38 | 11-10-2026| manga ch6 (2610001): page 7/17 (41%) 27s
+[1]Widya       |15:40:43 | 11-10-2026| manga ch6 (2610001): page 8/17 (47%) 32s
+[1]Widya       |15:40:47 | 11-10-2026| manga ch6 (2610001): page 9/17 (52%) 36s
+[1]Widya       |15:40:51 | 11-10-2026| manga ch6 (2610001): page 10/17 (58%) 40s
+[1]Widya       |15:40:56 | 11-10-2026| manga ch6 (2610001): page 11/17 (64%) 45s
+[1]Widya       |15:41:01 | 11-10-2026| manga ch6 (2610001): page 12/17 (70%) 49s
+[1]Widya       |15:41:05 | 11-10-2026| manga ch6 (2610001): page 13/17 (76%) 54s
+[1]Widya       |15:41:09 | 11-10-2026| manga ch6 (2610001): page 14/17 (82%) 58s
+[1]Widya       |15:41:14 | 11-10-2026| manga ch6 (2610001): page 15/17 (88%) 62s
+[1]Widya       |15:41:18 | 11-10-2026| manga ch6 (2610001): page 16/17 (94%) 67s
+[1]Widya       |15:41:22 | 11-10-2026| manga ch6 (2610001): page 17/17 (99%) 71s
+[1]Widya       |15:41:27 | 11-10-2026| manga ch6 (2610001): COMPLETED
+[1]Widya       |15:41:30 | 11-10-2026| manga [7/13] membaca ch.1 (21 hal)...
+[1]Widya       |15:41:35 | 11-10-2026| manga ch1 (180003): page 1/21 (4%) 0s
+[1]Widya       |15:41:39 | 11-10-2026| manga ch1 (180003): page 2/21 (9%) 4s
+[1]Widya       |15:41:44 | 11-10-2026| manga ch1 (180003): page 3/21 (14%) 9s
+[1]Widya       |15:41:48 | 11-10-2026| manga ch1 (180003): page 4/21 (19%) 13s
+[1]Widya       |15:41:52 | 11-10-2026| manga ch1 (180003): page 5/21 (23%) 18s
+[1]Widya       |15:41:57 | 11-10-2026| manga ch1 (180003): page 6/21 (28%) 22s
+[1]Widya       |15:42:01 | 11-10-2026| manga ch1 (180003): page 7/21 (33%) 27s
+[1]Widya       |15:42:06 | 11-10-2026| manga ch1 (180003): page 8/21 (38%) 31s
+[1]Widya       |15:42:10 | 11-10-2026| manga ch1 (180003): page 9/21 (42%) 36s
+[1]Widya       |15:42:15 | 11-10-2026| manga ch1 (180003): page 10/21 (47%) 40s
+[1]Widya       |15:42:19 | 11-10-2026| manga ch1 (180003): page 11/21 (52%) 45s
+[1]Widya       |15:42:24 | 11-10-2026| manga ch1 (180003): page 12/21 (57%) 49s
+[1]Widya       |15:42:29 | 11-10-2026| manga ch1 (180003): page 13/21 (61%) 53s
+[1]Widya       |15:42:33 | 11-10-2026| manga ch1 (180003): page 14/21 (66%) 58s
+[1]Widya       |15:42:37 | 11-10-2026| manga ch1 (180003): page 15/21 (71%) 63s
+[1]Widya       |15:42:42 | 11-10-2026| manga ch1 (180003): page 16/21 (76%) 67s
+[1]Widya       |15:42:47 | 11-10-2026| manga ch1 (180003): page 17/21 (80%) 71s
+[1]Widya       |15:42:51 | 11-10-2026| manga ch1 (180003): page 18/21 (85%) 77s
+[1]Widya       |15:42:56 | 11-10-2026| manga ch1 (180003): page 19/21 (90%) 81s
+[1]Widya       |15:43:00 | 11-10-2026| manga ch1 (180003): page 20/21 (95%) 85s
+[1]Widya       |15:43:04 | 11-10-2026| manga ch1 (180003): page 21/21 (99%) 89s
+[1]Widya       |15:43:09 | 11-10-2026| manga ch1 (180003): COMPLETED
+[1]Widya       |15:43:12 | 11-10-2026| manga [8/13] membaca ch.2 (18 hal)...
+[1]Widya       |15:43:17 | 11-10-2026| manga ch2 (990005): page 1/18 (5%) 0s
+[1]Widya       |15:43:21 | 11-10-2026| manga ch2 (990005): page 2/18 (11%) 4s
+[1]Widya       |15:43:26 | 11-10-2026| manga ch2 (990005): page 3/18 (16%) 9s
+[1]Widya       |15:43:30 | 11-10-2026| manga ch2 (990005): page 4/18 (22%) 13s
+[1]Widya       |15:43:34 | 11-10-2026| manga ch2 (990005): page 5/18 (27%) 17s
+[1]Widya       |15:43:39 | 11-10-2026| manga ch2 (990005): page 6/18 (33%) 22s
+[1]Widya       |15:43:43 | 11-10-2026| manga ch2 (990005): page 7/18 (38%) 27s
+[1]Widya       |15:43:48 | 11-10-2026| manga ch2 (990005): page 8/18 (44%) 31s
+[1]Widya       |15:43:52 | 11-10-2026| manga ch2 (990005): page 9/18 (50%) 35s
+[1]Widya       |15:43:56 | 11-10-2026| manga ch2 (990005): page 10/18 (55%) 40s
+[1]Widya       |15:44:01 | 11-10-2026| manga ch2 (990005): page 11/18 (61%) 44s
+[1]Widya       |15:44:05 | 11-10-2026| manga ch2 (990005): page 12/18 (66%) 49s
+[1]Widya       |15:44:10 | 11-10-2026| manga ch2 (990005): page 13/18 (72%) 53s
+[1]Widya       |15:44:14 | 11-10-2026| manga ch2 (990005): page 14/18 (77%) 57s
+[1]Widya       |15:44:18 | 11-10-2026| manga ch2 (990005): page 15/18 (83%) 61s
+[1]Widya       |15:44:23 | 11-10-2026| manga ch2 (990005): page 16/18 (88%) 66s
+[1]Widya       |15:44:27 | 11-10-2026| manga ch2 (990005): page 17/18 (94%) 70s
+[1]Widya       |15:44:31 | 11-10-2026| manga ch2 (990005): page 18/18 (99%) 75s
+[1]Widya       |15:44:36 | 11-10-2026| manga ch2 (990005): COMPLETED
+[1]Widya       |15:44:39 | 11-10-2026| manga [9/13] membaca ch.3 (20 hal)...
+[1]Widya       |15:44:44 | 11-10-2026| manga ch3 (1980001): page 1/20 (5%) 0s
+[1]Widya       |15:44:49 | 11-10-2026| manga ch3 (1980001): page 2/20 (10%) 4s
+[1]Widya       |15:44:53 | 11-10-2026| manga ch3 (1980001): page 3/20 (15%) 9s
+[1]Widya       |15:44:58 | 11-10-2026| manga ch3 (1980001): page 4/20 (20%) 13s
+[1]Widya       |15:45:02 | 11-10-2026| manga ch3 (1980001): page 5/20 (25%) 18s
+[1]Widya       |15:45:06 | 11-10-2026| manga ch3 (1980001): page 6/20 (30%) 22s
+[1]Widya       |15:45:11 | 11-10-2026| manga ch3 (1980001): page 7/20 (35%) 26s
+[1]Widya       |15:45:15 | 11-10-2026| manga ch3 (1980001): page 8/20 (40%) 31s
+[1]Widya       |15:45:20 | 11-10-2026| manga ch3 (1980001): page 9/20 (45%) 35s
+[1]Widya       |15:45:24 | 11-10-2026| manga ch3 (1980001): page 10/20 (50%) 40s
+[1]Widya       |15:45:28 | 11-10-2026| manga ch3 (1980001): page 11/20 (55%) 44s
+[1]Widya       |15:45:32 | 11-10-2026| manga ch3 (1980001): page 12/20 (60%) 48s
+[1]Widya       |15:45:37 | 11-10-2026| manga ch3 (1980001): page 13/20 (65%) 52s
+[1]Widya       |15:45:41 | 11-10-2026| manga ch3 (1980001): page 14/20 (70%) 57s
+[1]Widya       |15:45:46 | 11-10-2026| manga ch3 (1980001): page 15/20 (75%) 61s
+[1]Widya       |15:45:50 | 11-10-2026| manga ch3 (1980001): page 16/20 (80%) 66s
+[1]Widya       |15:45:54 | 11-10-2026| manga ch3 (1980001): page 17/20 (85%) 70s
+[1]Widya       |15:45:59 | 11-10-2026| manga ch3 (1980001): page 18/20 (90%) 74s
+[1]Widya       |15:46:04 | 11-10-2026| manga ch3 (1980001): page 19/20 (95%) 79s
+[1]Widya       |15:46:08 | 11-10-2026| manga ch3 (1980001): page 20/20 (99%) 84s
+[1]Widya       |15:46:12 | 11-10-2026| manga ch3 (1980001): COMPLETED
+[1]Widya       |15:46:15 | 11-10-2026| manga [10/13] membaca ch.1 (9 hal)...
+[1]Widya       |15:46:21 | 11-10-2026| manga ch1 (2100001): page 1/9 (11%) 0s
+[1]Widya       |15:46:26 | 11-10-2026| manga ch1 (2100001): page 2/9 (22%) 5s
+[1]Widya       |15:46:34 | 11-10-2026| manga ch1 (2100001): page 3/9 (33%) 10s
+[1]Widya       |15:46:38 | 11-10-2026| manga ch1 (2100001): page 4/9 (44%) 17s
+[1]Widya       |15:46:43 | 11-10-2026| manga ch1 (2100001): page 5/9 (55%) 22s
+[1]Widya       |15:46:47 | 11-10-2026| manga ch1 (2100001): page 6/9 (66%) 26s
+[1]Widya       |15:46:51 | 11-10-2026| manga ch1 (2100001): page 7/9 (77%) 31s
+[1]Widya       |15:46:56 | 11-10-2026| manga ch1 (2100001): page 8/9 (88%) 35s
+[1]Widya       |15:47:00 | 11-10-2026| manga ch1 (2100001): page 9/9 (99%) 40s
+[1]Widya       |15:47:05 | 11-10-2026| manga ch1 (2100001): COMPLETED
+[1]Widya       |15:47:08 | 11-10-2026| manga [11/13] membaca ch.1 (10 hal)...
+[1]Widya       |15:47:13 | 11-10-2026| manga ch1 (2070001): page 1/10 (10%) 0s
+[1]Widya       |15:47:17 | 11-10-2026| manga ch1 (2070001): page 2/10 (20%) 4s
+[1]Widya       |15:47:21 | 11-10-2026| manga ch1 (2070001): page 3/10 (30%) 9s
+[1]Widya       |15:47:26 | 11-10-2026| manga ch1 (2070001): page 4/10 (40%) 13s
+[1]Widya       |15:47:30 | 11-10-2026| manga ch1 (2070001): page 5/10 (50%) 17s
+[1]Widya       |15:47:34 | 11-10-2026| manga ch1 (2070001): page 6/10 (60%) 22s
+[1]Widya       |15:47:39 | 11-10-2026| manga ch1 (2070001): page 7/10 (70%) 26s
+[1]Widya       |15:47:45 | 11-10-2026| manga ch1 (2070001): page 8/10 (80%) 30s
+[1]Widya       |15:47:49 | 11-10-2026| manga ch1 (2070001): page 9/10 (90%) 36s
+[1]Widya       |15:47:54 | 11-10-2026| manga ch1 (2070001): page 10/10 (99%) 41s
+[1]Widya       |15:47:58 | 11-10-2026| manga ch1 (2070001): COMPLETED
+[1]Widya       |15:48:01 | 11-10-2026| manga [12/13] membaca ch.2 (11 hal)...
+[1]Widya       |15:48:06 | 11-10-2026| manga ch2 (2520001): page 1/11 (9%) 0s
+[1]Widya       |15:48:11 | 11-10-2026| manga ch2 (2520001): page 2/11 (18%) 4s
+[1]Widya       |15:48:16 | 11-10-2026| manga ch2 (2520001): page 3/11 (27%) 9s
+[1]Widya       |15:48:21 | 11-10-2026| manga ch2 (2520001): page 4/11 (36%) 14s
+[1]Widya       |15:48:25 | 11-10-2026| manga ch2 (2520001): page 5/11 (45%) 19s
+[1]Widya       |15:48:29 | 11-10-2026| manga ch2 (2520001): page 6/11 (54%) 23s
+[1]Widya       |15:48:34 | 11-10-2026| manga ch2 (2520001): page 7/11 (63%) 28s
+[1]Widya       |15:48:38 | 11-10-2026| manga ch2 (2520001): page 8/11 (72%) 32s
+[1]Widya       |15:48:42 | 11-10-2026| manga ch2 (2520001): page 9/11 (81%) 36s
+[1]Widya       |15:48:47 | 11-10-2026| manga ch2 (2520001): page 10/11 (90%) 40s
+[1]Widya       |15:48:52 | 11-10-2026| manga ch2 (2520001): page 11/11 (99%) 45s
+[1]Widya       |15:48:57 | 11-10-2026| manga ch2 (2520001): COMPLETED
+[1]Widya       |15:49:00 | 11-10-2026| manga [13/13] membaca ch.3 (11 hal)...
+[1]Widya       |15:49:05 | 11-10-2026| manga ch3 (2550001): page 1/11 (9%) 0s
+[1]Widya       |15:49:10 | 11-10-2026| manga ch3 (2550001): page 2/11 (18%) 4s
+[1]Widya       |15:49:15 | 11-10-2026| manga ch3 (2550001): page 3/11 (27%) 9s
+[1]Widya       |15:49:20 | 11-10-2026| manga ch3 (2550001): page 4/11 (36%) 14s
+[1]Widya       |15:49:24 | 11-10-2026| manga ch3 (2550001): page 5/11 (45%) 19s
+[1]Widya       |15:49:29 | 11-10-2026| manga ch3 (2550001): page 6/11 (54%) 23s
+[1]Widya       |15:49:33 | 11-10-2026| manga ch3 (2550001): page 7/11 (63%) 28s
+[1]Widya       |15:49:38 | 11-10-2026| manga ch3 (2550001): page 8/11 (72%) 32s
+[1]Widya       |15:49:42 | 11-10-2026| manga ch3 (2550001): page 9/11 (81%) 37s
+[1]Widya       |15:49:47 | 11-10-2026| manga ch3 (2550001): page 10/11 (90%) 41s
+[1]Widya       |15:49:51 | 11-10-2026| manga ch3 (2550001): page 11/11 (99%) 46s
+[1]Widya       |15:49:55 | 11-10-2026| manga ch3 (2550001): COMPLETED
 --> [1]Widya menjalankan: Get Gift
-[1]Widya       |08:48:00 | 11-10-2026| gift ERROR: gifts http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Widya       |15:49:59 | 11-10-2026| gift: 3/3 belum diterima
+[1]Widya       |15:50:00 | 11-10-2026| gift [1/3] Oshii’s space studio overlooking Earth: OK
+[1]Widya       |15:50:03 | 11-10-2026| gift [2/3] Osshi animated stickers: OK
+[1]Widya       |15:50:06 | 11-10-2026| gift [3/3] Oshii and friends above the sunrise clouds: OK
 --> [1]Widya menjalankan: Setup Profile
-[1]Widya       |08:48:00 | 11-10-2026| profile ERROR: member-settings http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Widya       |15:50:08 | 11-10-2026| profile: bio="" fav=- rewardAt=-
+[1]Widya       |15:50:09 | 11-10-2026| profile: OK bio="https://x.com/widyafanisia" fav=mony awarded=true +10pt
 --> [1]Widya menjalankan: Bind Wallet
-[1]Widya       |08:48:00 | 11-10-2026| wallet ERROR: member-settings http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Widya       |15:50:10 | 11-10-2026| wallet: derivasi dari privateKeySolana -> 8VQPiB8gktZsTvyKcY5B5kywdLyiJj34re5jY1x51YH6 (cek cocok dengan wallet kamu!)
+[1]Widya       |15:50:11 | 11-10-2026| wallet: /api/wallet OK (solana)
+[1]Widya       |15:50:11 | 11-10-2026| wallet: /api/sol-address OK
 
 == RINGKASAN ==
-- Widya: daily=already | tasks OK 4/4 | misi klaim 0 (+0pt) | kuis benar 6 (+60pt) | watch 2/2 completed | musik 10 trek ~1591.1064000000003s | artikel 24 dibaca | manga 0/0 completed | gift 0/0 diterima | profile - | wallet -
+- Widya: daily=claimed | tasks OK 6/6 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/0 completed | musik 2 trek ~448.22339999999997s | artikel 0 dibaca | manga 13/13 completed | gift 3/3 diterima | profile +10pt | wallet bound | mint req=false open=false
