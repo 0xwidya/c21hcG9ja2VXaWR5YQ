@@ -12,58 +12,66 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Widya =====
-[1]Widya       |07:10:37 | 18-10-2026| login OK @widyafanisia | score=1400 rank=4735
-[1]Widya       |07:10:37 | 18-10-2026| serverTime=2026-10-18T07:10:37.000Z local=2026-10-18T07:10:37.405Z
+[1]Widya       |07:39:17 | 19-10-2026| login OK @widyafanisia | score=1460 rank=4664
+[1]Widya       |07:39:17 | 19-10-2026| serverTime=2026-10-19T07:39:17.000Z local=2026-10-19T07:39:17.482Z
 --> [1]Widya menjalankan: Claim Daily
-[1]Widya       |07:10:38 | 18-10-2026| daily: OK +10 poin score=1410
---> [1]Widya menjalankan: Auto All Tasks (5 pending)
-[1]Widya       |07:10:41 | 18-10-2026| [1/5] fa44d98c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"fa44d98c-03f4-4c7f-b0aa-ae511e074978","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211145507312569 | proof=https://x.com/widyafanisia/status/2111716303632433006
-[1]Widya       |07:10:41 | 18-10-2026| delay 10s...
-[1]Widya       |07:10:53 | 18-10-2026| [2/5] 9dd2f7fc (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"fa44d98c-03f4-4c7f-b0aa-ae511e074978","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211145507312569 | proof=https://x.com/widyafanisia/status/2111716154218495753
-[1]Widya       |07:10:53 | 18-10-2026| delay 10s...
-[1]Widya       |07:11:05 | 18-10-2026| [3/5] 9d42b298 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"fa44d98c-03f4-4c7f-b0aa-ae511e074978","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211145507312569 | proof=https://x.com/widyafanisia/status/2111716216383715917
-[1]Widya       |07:11:05 | 18-10-2026| delay 10s...
-[1]Widya       |07:11:19 | 18-10-2026| [4/5] 43631d01 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"fa44d98c-03f4-4c7f-b0aa-ae511e074978","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211145507312569
-[1]Widya       |07:11:19 | 18-10-2026| delay 10s...
-[1]Widya       |07:11:32 | 18-10-2026| [5/5] 9a5c9c72 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"fa44d98c-03f4-4c7f-b0aa-ae511e074978","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211145507312569 | proof=https://x.com/widyafanisia/status/2111716269051001076
-[1]Widya       |07:11:32 | 18-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Widya       |07:11:35 | 18-10-2026| [1/1] fa44d98c (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"fa44d98c-03f4-4c7f-b0aa-ae511e074978","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2111455073125699 | proof=https://x.com/widyafanisia/status/2111716523931255017
+[1]Widya       |07:39:18 | 19-10-2026| daily: OK +10 poin score=1470
+--> [1]Widya menjalankan: Auto All Tasks (9 pending)
+[1]Widya       |07:39:21 | 19-10-2026| [1/9] 29d2bf65 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"29d2bf65-58a2-4555-ba23-eb6dda6692f5","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211207884919026 | proof=https://x.com/widyafanisia/status/2112085725940755738
+[1]Widya       |07:39:21 | 19-10-2026| delay 10s...
+[1]Widya       |07:39:33 | 19-10-2026| [2/9] 1cc2da8d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"29d2bf65-58a2-4555-ba23-eb6dda6692f5","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211207884919026 | proof=https://x.com/widyafanisia/status/2112085601513959523
+[1]Widya       |07:39:33 | 19-10-2026| delay 10s...
+[1]Widya       |07:39:46 | 19-10-2026| [3/9] e792000f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"29d2bf65-58a2-4555-ba23-eb6dda6692f5","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211207884919026 | proof=https://x.com/widyafanisia/status/2112085985224810103
+[1]Widya       |07:39:46 | 19-10-2026| delay 10s...
+[1]Widya       |07:39:59 | 19-10-2026| [4/9] 5830cfb5 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"29d2bf65-58a2-4555-ba23-eb6dda6692f5","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211207884919026 | proof=https://x.com/widyafanisia/status/2112085904787607138
+[1]Widya       |07:39:59 | 19-10-2026| delay 10s...
+[1]Widya       |07:40:12 | 19-10-2026| [5/9] 75d20c29 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"29d2bf65-58a2-4555-ba23-eb6dda6692f5","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211207884919026 | proof=https://x.com/widyafanisia/status/2112086022135354522
+[1]Widya       |07:40:12 | 19-10-2026| delay 10s...
+[1]Widya       |07:40:26 | 19-10-2026| [6/9] c4a0bafb (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"29d2bf65-58a2-4555-ba23-eb6dda6692f5","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211207884919026 | proof=https://x.com/widyafanisia/status/2112086139864321714
+[1]Widya       |07:40:26 | 19-10-2026| delay 10s...
+[1]Widya       |07:40:43 | 19-10-2026| [7/9] de7bf305 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"29d2bf65-58a2-4555-ba23-eb6dda6692f5","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211207884919026 | proof=https://x.com/widyafanisia/status/2112086233236604714
+[1]Widya       |07:40:43 | 19-10-2026| delay 10s...
+[1]Widya       |07:40:56 | 19-10-2026| [8/9] f2efc21b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"29d2bf65-58a2-4555-ba23-eb6dda6692f5","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211207884919026 | proof=https://x.com/widyafanisia/status/2112086244669658949
+[1]Widya       |07:40:56 | 19-10-2026| delay 10s...
+[1]Widya       |07:41:08 | 19-10-2026| [9/9] c821602a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"29d2bf65-58a2-4555-ba23-eb6dda6692f5","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211207884919026 | proof=https://x.com/widyafanisia/status/2112086340066049058
+[1]Widya       |07:41:08 | 19-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Widya       |07:41:10 | 19-10-2026| [1/1] 29d2bf65 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"29d2bf65-58a2-4555-ba23-eb6dda6692f5","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2112078849190269 | proof=https://x.com/widyafanisia/status/2112086040522657920
 --> [1]Widya menjalankan: Watch Anime
-[1]Widya       |07:11:36 | 18-10-2026| watch: 4 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
-[1]Widya       |07:11:36 | 18-10-2026| watch [1/4] farming oshi-captains-hat...
+[1]Widya       |07:41:11 | 19-10-2026| watch: 4 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
+[1]Widya       |07:41:11 | 19-10-2026| watch [1/4] farming oshi-captains-hat...
   video baru dikenal: oshi-captains-hat (katalog +5)
-[1]Widya       |07:11:38 | 18-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
-[1]Widya       |07:11:43 | 18-10-2026| watch [2/4] farming oshi-rainbow-star...
-[1]Widya       |07:11:45 | 18-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
-[1]Widya       |07:11:50 | 18-10-2026| watch [3/4] farming oshi-rainbow-lighthouse...
-[1]Widya       |07:11:51 | 18-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
-[1]Widya       |07:11:56 | 18-10-2026| watch [4/4] farming bakeru-ikesou-jan-mv...
-[1]Widya       |07:11:58 | 18-10-2026| watch bakeru-ikesou-jan-mv: durasi tak diketahui, skip (record tidak disentuh)
+[1]Widya       |07:41:13 | 19-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
+[1]Widya       |07:41:18 | 19-10-2026| watch [2/4] farming oshi-rainbow-star...
+[1]Widya       |07:41:21 | 19-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
+[1]Widya       |07:41:26 | 19-10-2026| watch [3/4] farming oshi-rainbow-lighthouse...
+[1]Widya       |07:41:28 | 19-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
+[1]Widya       |07:41:33 | 19-10-2026| watch [4/4] farming bakeru-ikesou-jan-mv...
+[1]Widya       |07:41:35 | 19-10-2026| watch bakeru-ikesou-jan-mv: durasi tak diketahui, skip (record tidak disentuh)
 --> [1]Widya menjalankan: Read Article
-[1]Widya       |07:12:00 | 18-10-2026| news: 27/27 artikel selesai dibaca
-[1]Widya       |07:12:01 | 18-10-2026| mint eligibility: {"userId":"1780798979921641472","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@widyafanisia","status":"submitted","revision":"c096ca46-528f-4486-90cd-535103094
-[1]Widya       |07:12:01 | 18-10-2026| news: semua artikel sudah dibaca
+[1]Widya       |07:41:37 | 19-10-2026| news: 27/27 artikel selesai dibaca
+[1]Widya       |07:41:38 | 19-10-2026| mint eligibility: {"userId":"1780798979921641472","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@widyafanisia","status":"submitted","revision":"c096ca46-528f-4486-90cd-535103094
+[1]Widya       |07:41:38 | 19-10-2026| news: semua artikel sudah dibaca
 --> [1]Widya menjalankan: Quiz Anime
-[1]Widya       |07:12:01 | 18-10-2026| quiz ep1: sudah dijawab
-[1]Widya       |07:12:01 | 18-10-2026| quiz ep2: sudah dijawab
-[1]Widya       |07:12:01 | 18-10-2026| quiz ep3: sudah dijawab
-[1]Widya       |07:12:01 | 18-10-2026| quiz ep4: sudah dijawab
-[1]Widya       |07:12:01 | 18-10-2026| quiz ep5: sudah dijawab
-[1]Widya       |07:12:01 | 18-10-2026| quiz ep6: sudah dijawab
+[1]Widya       |07:41:38 | 19-10-2026| quiz ep1: sudah dijawab
+[1]Widya       |07:41:38 | 19-10-2026| quiz ep2: sudah dijawab
+[1]Widya       |07:41:38 | 19-10-2026| quiz ep3: sudah dijawab
+[1]Widya       |07:41:38 | 19-10-2026| quiz ep4: sudah dijawab
+[1]Widya       |07:41:38 | 19-10-2026| quiz ep5: sudah dijawab
+[1]Widya       |07:41:38 | 19-10-2026| quiz ep6: sudah dijawab
 --> [1]Widya menjalankan: Music Missions (realtime, bisa lama!)
-[1]Widya       |07:12:04 | 18-10-2026| music: kedua misi sudah tercapai, stop
-[1]Widya       |07:12:05 | 18-10-2026| mission music-listens-10: sudah diklaim
-[1]Widya       |07:12:05 | 18-10-2026| mission music-minutes-30: sudah diklaim
-[1]Widya       |07:12:05 | 18-10-2026| mission anime-completed-3: sudah diklaim
+[1]Widya       |07:41:41 | 19-10-2026| music: kedua misi sudah tercapai, stop
+[1]Widya       |07:41:41 | 19-10-2026| mission music-listens-10: sudah diklaim
+[1]Widya       |07:41:41 | 19-10-2026| mission music-minutes-30: sudah diklaim
+[1]Widya       |07:41:41 | 19-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Widya menjalankan: Claim Missions
-[1]Widya       |07:12:05 | 18-10-2026| mission music-listens-10: sudah diklaim
-[1]Widya       |07:12:05 | 18-10-2026| mission music-minutes-30: sudah diklaim
-[1]Widya       |07:12:05 | 18-10-2026| mission anime-completed-3: sudah diklaim
+[1]Widya       |07:41:42 | 19-10-2026| mission music-listens-10: sudah diklaim
+[1]Widya       |07:41:42 | 19-10-2026| mission music-minutes-30: sudah diklaim
+[1]Widya       |07:41:42 | 19-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Widya menjalankan: Check Eligibility
 
 --- eligibility [1]Widya ---
-  @widyafanisia | score=1400 rank=4735
-  tasks    [###################-] 74/79
+  @widyafanisia | score=1460 rank=4664
+  tasks    [##################--] 74/83
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -74,14 +82,14 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Widya menjalankan: Read Manga
-[1]Widya       |07:12:10 | 18-10-2026| manga: 0/13 chapter belum completed
+[1]Widya       |07:41:46 | 19-10-2026| manga: 0/13 chapter belum completed
 --> [1]Widya menjalankan: Get Gift
-[1]Widya       |07:12:11 | 18-10-2026| gift: 0/4 belum diterima
+[1]Widya       |07:41:47 | 19-10-2026| gift: 0/4 belum diterima
 --> [1]Widya menjalankan: Setup Profile
-[1]Widya       |07:12:11 | 18-10-2026| profile: bio="https://x.com/widyafanisia" fav=mony rewardAt=1791733809
-[1]Widya       |07:12:11 | 18-10-2026| profile: bonus sudah diklaim, skip
+[1]Widya       |07:41:47 | 19-10-2026| profile: bio="https://x.com/widyafanisia" fav=mony rewardAt=1791733809
+[1]Widya       |07:41:47 | 19-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Widya menjalankan: Bind Wallet
-[1]Widya       |07:12:12 | 18-10-2026| wallet: sudah terikat 8VQPiB8gkt... (solana)
+[1]Widya       |07:41:48 | 19-10-2026| wallet: sudah terikat 8VQPiB8gkt... (solana)
 
 == RINGKASAN ==
-- Widya: daily=claimed | tasks OK 6/6 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/4 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
+- Widya: daily=claimed | tasks OK 10/10 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/4 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
